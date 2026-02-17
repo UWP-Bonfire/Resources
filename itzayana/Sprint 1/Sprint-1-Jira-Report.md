@@ -26,7 +26,7 @@ Per-Student Work Allocation (As of 2/16):
 | Courtney | 5 | 5 |
 | Gavin | 2 | 2 |
 | Itzyana | 2 | 2 |
-| Ty | 2 | 0 |
+| Ty | 2 | 2 |
 
 Estimation & Accuracy:
 
@@ -51,8 +51,8 @@ Blockers & Scope Changes:
   * N/A
 Jira Evidence Links (no screenshots)
 
-•Sprint report link \- 
+•Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMzk0NTE5MWVlODkyNDg5MDgzMzk0MzVmMjJmN2JhMTEiLCJwIjoiaiJ9
 
-•Backlog link \- 
+•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog
 
-•Board link (filtered to sprint) \- 
+•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2038&sprints=38
