@@ -1,9 +1,7 @@
-# 📊 Sprint-X GitHub Report
-
-## Repository Information
+# 📊 Sprint-1 GitHub Report
 
 **Repository URL:**
-`<Add repository link here>`
+https://github.com/UWP-Bonfire/bonfire-backend
 
 ---
 
@@ -46,7 +44,3 @@ Implemented functionality for limiting notifications to 3 before thereceiver ope
 2/11/26 - 2/17/26
 
 ---
-
-## Notes (Optional)
-
-*Add any relevant context about development activity, major changes, or sprint highlights.*
