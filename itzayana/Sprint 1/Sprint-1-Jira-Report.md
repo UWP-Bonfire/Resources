@@ -49,7 +49,7 @@ Blockers & Scope Changes:
   * Existing bugs from last semester as well as updates to React caused us to focus on fixes over new features
 * Why work spilled over (if any)  
   * N/A
-**Jira Evidence Links (no screenshots)**
+Jira Evidence Links (no screenshots)
 
 •Sprint report link \- 
 
