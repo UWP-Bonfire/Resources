@@ -1,4 +1,3 @@
-
 # 📊 Jira Sprint Report
 
 ## Sprint Commitment vs Delivery
@@ -32,3 +31,44 @@
 | Gavin    |                 |                  |
 | Itzyana  |                 |                  |
 | Ty       |                 |                  |
+
+---
+
+## Estimation & Accuracy
+
+| Metric                       | Value |
+| ---------------------------- | ----- |
+| Total story points committed |       |
+| Total story points completed |       |
+| Completion %                 |       |
+
+---
+
+## Workflow Discipline
+
+*Check only the steps followed during the sprint*
+
+* [ ] Issues moved through workflow states (To Do → In Progress → Done)
+* [ ] Issues closed only after acceptance criteria met
+* [ ] Sprint completed / closed in Jira
+
+---
+
+## Blockers & Scope Changes
+
+**Major Blockers**
+.
+
+**Scope Changes**
+.
+
+**Why work spilled over (if any)**
+.
+
+---
+
+## Jira Evidence Links (No Screenshots)
+
+* Sprint report link:
+* Backlog link:
+* Board link (filtered to sprint):
