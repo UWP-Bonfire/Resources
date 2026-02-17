@@ -1,10 +1,5 @@
 # 📊 Sprint-X GitHub Report
 
-**File name:** `Sprint-X-GitHub-Report.md`
-*Replace X with the sprint number before submitting.*
-
----
-
 ## Repository Information
 
 **Repository URL:**
