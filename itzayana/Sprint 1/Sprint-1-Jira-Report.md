@@ -54,7 +54,7 @@ Blockers & Scope Changes:
    * Add bot friend for new accounts that havent add friends yet Ability to view profiles of others in chats
 
 
-Jira Evidence Links (no screenshots):
+**Jira Evidence Links (no screenshots)**
 \-
 Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMzk0NTE5MWVlODkyNDg5MDgzMzk0MzVmMjJmN2JhMTEiLCJwIjoiaiJ9
 
