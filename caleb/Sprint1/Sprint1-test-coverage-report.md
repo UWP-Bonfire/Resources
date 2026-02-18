@@ -19,9 +19,6 @@ This report summarizes automated test coverage across two project platforms:
 - **Tests:** JUnit / Android Instrumented Tests
 - **Coverage Tool:** JaCoCo
 
-> Note:
-> Istanbul reports line/statement/function metrics, while JaCoCo reports instruction and branch metrics.
-> Percentages are therefore comparable at a high level but derived differently internally.
 
 ---
 
