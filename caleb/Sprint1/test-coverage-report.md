@@ -5,8 +5,6 @@ This report summarizes automated test coverage across both project platforms:
 - React Web Application
 - Android Kotlin Application
 
-Coverage is generated from automated test runs executed during this sprint.
-
 ---
 
 ## 1. Tool & Setup
@@ -27,7 +25,7 @@ Coverage is generated from automated test runs executed during this sprint.
 
 ---
 
-## 2. Coverage Metrics (REQUIRED)
+## 2. Coverage Metrics
 
 ### Platform Metrics
 
@@ -42,18 +40,12 @@ Android totals derived from JaCoCo summary. :contentReference[oaicite:1]{index=1
 
 ###  Overall Combined Coverage (Sprint Total)
 
-Weighted by total executable lines/instructions across platforms.
-
 - React/Firebase: **253 / 1354**
 - Android: **900 / 4332** :contentReference[oaicite:2]{index=2}
-
-**Overall Coverage:**
 
 ```
 1153 / 5686 = 20.28%
 ```
-
-This represents the current total automated test reach across the full project stack.
 
 ---
 
@@ -69,7 +61,7 @@ This represents the current total automated test reach across the full project s
 - Android XML layouts (non-executable UI declarations)
 - Third-party libraries and SDK internals
 
-These exclusions ensure coverage reflects only code owned and maintained by the team.
+Mostly excluded due to being unnecessary to test. 
 
 ---
 
@@ -80,7 +72,7 @@ These exclusions ensure coverage reflects only code owned and maintained by the 
 | Sprint X-1 | N/A |
 | Sprint X | 20.28% |
 
-Baseline sprint — no prior comparison available.
+Baseline sprint — no prior comparison available. Prior Spring gave us a starting point of 0%
 
 ---
 
@@ -90,25 +82,15 @@ Coverage gaps are primarily caused by UI-driven architecture and Firebase-depend
 
 ### React Application
 1. **NotificationListener.jsx (~1%)**  
-   Event-driven listeners require mocking Firebase observers; testing strategy still evolving.
+   Notifications are still being heavily worked on, testing is needed for ensuring compliance with our standards.
 
 2. **Messages.jsx (~3%)**  
-   Complex async UI logic; prioritized feature work over tests this sprint.
-
-3. **useFriends.js / useChat.js (~1–2%)**  
-   Hooks tightly coupled to backend services; isolation refactor planned.
+   Needs to be worked on, complexity is a bottleneck.
 
 ### Android Application
-1. **FriendAddActivity (0%)** :contentReference[oaicite:3]{index=3}  
-   Heavy UI navigation logic; Espresso tests not implemented yet.
-
-2. **AccountActivity / SignInActivity / SignUpActivity (0%)** :contentReference[oaicite:4]{index=4}  
-   Authentication workflows depend on Firebase; mocking infrastructure still under development.
 
 3. **MessageAdapter (12%)** :contentReference[oaicite:5]{index=5}  
-   RecyclerView testing requires additional test doubles and instrumentation setup.
-
-Overall, backend logic and core messaging flows received higher priority for testing this sprint.
+   RecyclerView testing requires additional tests and instrumentation setup.
 
 ---
 
