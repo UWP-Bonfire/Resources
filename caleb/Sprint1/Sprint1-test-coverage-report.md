@@ -92,8 +92,8 @@ Coverage gaps are primarily caused by UI-driven architecture and Firebase-depend
 
 ## 6. Evidence
 
-- React Coverage Report: [PASTE REPO LINK HERE]
-- Android JaCoCo Report: [PASTE REPO LINK HERE]
+- React Coverage Report: [Link](https://github.com/UWP-Bonfire/Resources/blob/main/caleb/Sprint1/tests/backend-coverage-report.md)
+- Android JaCoCo Report: [Link](https://github.com/UWP-Bonfire/Resources/blob/main/caleb/Sprint1/tests/bonfireAppTests.htm)
 
 ---
 
