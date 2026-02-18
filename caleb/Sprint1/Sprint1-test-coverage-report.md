@@ -37,7 +37,7 @@ This report summarizes automated test coverage across two project platforms:
 ###  Overall Combined Coverage (Sprint Total)
 
 - React/Firebase: **253 / 1354**
-- Android: **900 / 4332** :contentReference[oaicite:2]{index=2}
+- Android: **900 / 4332**
 
 ```
 1153 / 5686 = 20.28%
