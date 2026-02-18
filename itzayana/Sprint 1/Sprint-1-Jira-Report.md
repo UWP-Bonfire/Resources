@@ -49,9 +49,9 @@ Blockers & Scope Changes:
   * Existing bugs from last semester, as well as updates to React, caused us to focus on fixes over new features
 * Why work spilled over (if any)- 
   * N/A
- * Scope changes:
-  * Chat favorites pinned list, Account creation, Disallow username with spaces and Should not be cap sensitive
-  * Add bot friend for new accounts that havent add friends yet Ability to view profiles of others in chats
+ * Scope changes-
+   * Chat favorites pinned list, Account creation, Disallow username with spaces and Should not be cap sensitive
+   * Add bot friend for new accounts that havent add friends yet Ability to view profiles of others in chats
 
 
 Jira Evidence Links (no screenshots):
