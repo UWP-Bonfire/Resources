@@ -40,7 +40,7 @@ Android totals derived from JaCoCo summary. :contentReference[oaicite:1]{index=1
 
 ---
 
-### ⭐ Overall Combined Coverage (Sprint Total)
+###  Overall Combined Coverage (Sprint Total)
 
 Weighted by total executable lines/instructions across platforms.
 
