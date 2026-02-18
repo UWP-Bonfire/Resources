@@ -12,18 +12,18 @@
   * Courtney  
 * Merge date  
   * Feb 10
-
+***
 * PR title  
   * profile pictures properly loading / matched with web  
 * PR link  
-  * [https://github.com/UWP-Bonfire/Bonfire-Android/pull/11](https://github.com/UWP-Bonfire/Bonfire-Android/pull/11)  
+  * [https://github.com/UWP-Bonfire/Bonfire-Android/pull/11](https://github.com/UWP-Bonfire/Bonfire-Android/pull/11)  ***
 * Author  
   * Amy  
 * Reviewers  
   * Courtney  
 * Merge date  
   * Feb 12
-
+***
 * PR title  
   * User account creation has all necessary fields  
 * PR link  
@@ -32,10 +32,9 @@
   * Amy  
 * Reviewers  
   * Courtney
-
 * Merge date  
   * Feb 16 
-
+***
 * PR title  
   * Quick fix for default profile picture to new accounts  
 * PR link  
