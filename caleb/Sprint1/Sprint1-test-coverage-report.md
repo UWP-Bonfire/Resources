@@ -1,6 +1,6 @@
 # Sprint 1 – Bonfire Test Coverage Report
 
-This report summarizes automated test coverage across both project platforms:
+This report summarizes automated test coverage across two project platforms:
 
 - React Web Application
 - Android Kotlin Application
