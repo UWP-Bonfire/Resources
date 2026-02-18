@@ -17,16 +17,16 @@ Issue Breakdown by Type:
 | Task | 0 | 0 | 1 |
 | Bug | 0 | 0 | 1 |
 
-Per-Student Work Allocation (As of 2/15):
+Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
 | Amy | 3 | 3 |
-| Caleb | 2 | 0 |
+| Caleb | 2 | 2 |
 | Courtney | 5 | 5 |
 | Gavin | 2 | 2 |
-| Itzyana | 2 | 1 |
-| Ty | 2 | 0 |
+| Itzyana | 2 | 2 |
+| Ty | 2 | 2 |
 
 Estimation & Accuracy:
 
@@ -41,7 +41,7 @@ Workflow Discipline:
 
 - [x] Issues moved through workflow states (To Do \-\> In Progress \-\> Done)  
 - [x] Issues closed only after acceptance criteria met  
-- [ ] Sprint completed/closed in Jira (to be done by Courtney after Sprint demo)
+- [x] Sprint completed/closed in Jira
 
 Blockers & Scope Changes:
 
