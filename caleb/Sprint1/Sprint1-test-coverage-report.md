@@ -31,7 +31,6 @@ This report summarizes automated test coverage across two project platforms:
 | React Web | 18.68% | 17.80% | 16.66% | 18.07% |
 | Android App | 20.78% | 12% | N/A | N/A |
 
-Android totals derived from JaCoCo summary. :contentReference[oaicite:1]{index=1}
 
 ---
 
