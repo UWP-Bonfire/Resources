@@ -14,15 +14,15 @@ Issue Breakdown by Type:
 | Type | To Do | In Progress | Done |
 | :---- | :---- | :---- | :---- |
 | Story | 0 | 0 | 0 |
-| Task | 0 | 0 | 1 |
-| Bug | 0 | 0 | 1|
+| Task | 0 | 0 | 0 |
+| Bug | 0 | 0 | 2|
 
 Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
 | Amy | 3 | 3 |
-| Caleb | 2 | 0 |
+| Caleb | 2 | 2 |
 | Courtney | 5 | 5 |
 | Gavin | 2 | 2 |
 | Itzyana | 2 | 2 |
@@ -47,8 +47,9 @@ Blockers & Scope Changes:
 
 * Major Blockers-  
   * Existing bugs from last semester, as well as updates to React, caused us to focus on fixes over new features
-* Why work spilled over (if any)  
+* Why work spilled over (if any)- 
   * N/A
+    
 Jira Evidence Links (no screenshots):
 
 •Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMzk0NTE5MWVlODkyNDg5MDgzMzk0MzVmMjJmN2JhMTEiLCJwIjoiaiJ9
