@@ -55,9 +55,8 @@ Blockers & Scope Changes:
 
 
 Jira Evidence Links (no screenshots):
-\-
-•Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMzk0NTE5MWVlODkyNDg5MDgzMzk0MzVmMjJmN2JhMTEiLCJwIjoiaiJ9
+Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMzk0NTE5MWVlODkyNDg5MDgzMzk0MzVmMjJmN2JhMTEiLCJwIjoiaiJ9
 
-•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog
+Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog
 
-•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2038&sprints=38
+Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2038&sprints=38
