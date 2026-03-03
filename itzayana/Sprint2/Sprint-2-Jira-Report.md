@@ -22,19 +22,19 @@ Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
-| Amy |  |  |
-| Caleb |  | |
-| Courtney |  |  |
-| Gavin |  |  |
-| Itzyana |  |  |
-| Ty |  |  |
+| Amy | 1 | 1 |
+| Caleb | 2 | 2|
+| Courtney | 7 | 7 |
+| Gavin | 2 | 2 |
+| Itzyana | 1 | 1 |
+| Ty | 2 | 2 |
 
 Estimation & Accuracy:
 
 | Metric | Value |
 | :---- | :---- |
-| Total story points committed | 0 |
-| Total story points completed | 0 |
+| Total story points committed | 13 |
+| Total story points completed | 13 |
 | Completion % | 100 |
 
 Workflow Discipline:  
@@ -47,11 +47,11 @@ Workflow Discipline:
 Blockers & Scope Changes:
 \- 
 * Major Blockers-  
-  * 
+  * Not many blockers other than bug fixing, based on the Sonor cube score
 * Why work spilled over (if any)- 
   * N/A
  * Scope changes-
-   * 
+   * Next Scope: I will help with the AI implementation, as well as implement an Emoji system and add Voice Messages 
 
 
 **Jira Evidence Links (no screenshots)**
