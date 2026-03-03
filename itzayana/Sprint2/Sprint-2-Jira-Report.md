@@ -60,4 +60,4 @@ Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/
 
 Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog
 
-Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2038&sprints=38
+Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2071&sprints=71
