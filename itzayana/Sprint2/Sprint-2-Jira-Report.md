@@ -5,8 +5,8 @@ Sprint Commitment vs Delivery:
 
 | Metric | Count |
 | :---- | :---- |
-| Issues committed at sprint start | 1 |
-| Issues completed | 1 |
+| Issues committed at sprint start | 2 |
+| Issues completed | 2 |
 | Issues not completed | 0 |
 | Issues added mid-sprint | 0 |
 
@@ -15,26 +15,26 @@ Issue Breakdown by Type:
 | Type | To Do | In Progress | Done |
 | :---- | :---- | :---- | :---- |
 | Story | 0 | 0 | 0 |
-| Task | 0 | 0 | 1 |
+| Task | 0 | 0 |2 |
 | Bug | 0 | 0 | 0|
 
 Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
-| Amy | 1 | 1 |
+| Amy | 2 | 2 |
 | Caleb | 2 | 2|
 | Courtney | 7 | 7 |
 | Gavin | 2 | 2 |
-| Itzyana | 1 | 1 |
+| Itzyana | 2 | 2 |
 | Ty | 2 | 2 |
 
 Estimation & Accuracy:
 
 | Metric | Value |
 | :---- | :---- |
-| Total story points committed | 13 |
-| Total story points completed | 13 |
+| Total story points committed | 15 |
+| Total story points completed | 15 |
 | Completion % | 100 |
 
 Workflow Discipline:  
