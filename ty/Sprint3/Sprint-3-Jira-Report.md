@@ -13,8 +13,8 @@ Issue Breakdown by Type:
 
 | Type | To Do | In Progress | Done |
 | :---- | :---- | :---- | :---- |
-| Story | 0 | 0 | 0 |
-| Task | 0 | 0 | 3 |
+| Story | 0 | 0 | 3 |
+| Task | 0 | 0 | 0 |
 | Bug | 0 | 0 | 0 |
 
 Per-Student Work Allocation (As of 2/15):
