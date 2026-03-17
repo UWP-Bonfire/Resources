@@ -22,8 +22,9 @@ https://github.com/UWP-Bonfire/bonfire-backend
 
 AI Implementation
 [https://github.com/UWP-Bonfire/bonfire-backend/pull/7#issue-3928343133
-](https://github.com/UWP-Bonfire/bonfire-backend/pull/17)Ty Andreoli
+](https://github.com/UWP-Bonfire/bonfire-backend/pull/17)
 Ty Andreoli
+Courtney Walk
 Merged: 3/17/26
 Implemented Artificial Intelligence Assistant
 
