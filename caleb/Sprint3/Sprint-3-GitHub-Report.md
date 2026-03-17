@@ -24,5 +24,5 @@ PR no. xx
 
 Commit Activity
 
-    **Total Number of Commits: 2
-    **Date Range: 2026-03-03 - 2026-03-17
+- Total Number of Commits: 2
+- Date Range: 2026-03-03 - 2026-03-17
