@@ -7,7 +7,7 @@ Pull Requests
 PR1 – Add marsh images, emoji picker and assets
 - **Author:** Itzayana  
 - **Reviewer:** Courtney  
-- **Merged:** 02-15-2026  
+- **Merged:** 03-15-2026  
 - **Link:** https://github.com/UWP-Bonfire/bonfire-web/pull/24  
 
 PR2 – Add voice message recording and playback 
