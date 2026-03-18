@@ -22,19 +22,19 @@ Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
-| Amy | 2 | 2 |
-| Caleb | 2 | 2|
-| Courtney | 7 | 7 |
-| Gavin | 2 | 2 |
+| Amy | 3 | 3 |
+| Caleb | 4 | 4 |
+| Courtney | 8 | 8 |
+| Gavin | 3 | 3 |
 | Itzyana | 2 | 2 |
-| Ty | 2 | 2 |
+| Ty | 3 | 3 ||
 
 Estimation & Accuracy:
 
 | Metric | Value |
 | :---- | :---- |
-| Total story points committed | 15 |
-| Total story points completed | 15 |
+| Total story points committed | 13 |
+| Total story points completed | 13 |
 | Completion % | 100 |
 
 Workflow Discipline:  
@@ -47,17 +47,17 @@ Workflow Discipline:
 Blockers & Scope Changes:
 \- 
 * Major Blockers-  
-  * Not many blockers other than bug fixing, based on the Sonor cube score
+  * Not many blockers other than Gavin having integration issues with GitHub Pages, which also affected my files, but that was resolved a bit
 * Why work spilled over (if any)- 
   * N/A
  * Scope changes-
-   * Next Scope: I will help with the AI implementation, as well as implement an Emoji system and add Voice Messages 
+   * Next Scope: I will fix minor bugs and nitpick with the web, along with keeping the same media audio with Android, as our voice files are stored and shown differently 
 
 
 **Jira Evidence Links (no screenshots)**
 
-Sprint report link \-  https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMzk0NTE5MWVlODkyNDg5MDgzMzk0MzVmMjJmN2JhMTEiLCJwIjoiaiJ9
+•Sprint report link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiMDk0MDZiYjc3MWIzNDAwNTkzN2I2Y2YwMDcxN2RmYjMiLCJwIjoiaiJ9
 
-Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog
+•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiMThlMzBmNTJlMTVmNGFjNThjMTQ0ODMzYjgwNTgyNjYiLCJwIjoiaiJ9
 
-Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2071&sprints=71
+•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?atlOrigin=eyJpIjoiNjZjMWU0ZTQxZTBkNDk4ZDg0NTZiMmExMTM1MzhlNzIiLCJwIjoiaiJ9
