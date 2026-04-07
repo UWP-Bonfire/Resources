@@ -22,19 +22,19 @@ Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
-| Amy | 3 | 3 |
-| Caleb | 4 | 4 |
-| Courtney | 8 | 8 |
-| Gavin | 3 | 3 |
+| Amy | 2 | 2 |
+| Caleb | 2 | 1 |
+| Courtney | 7 | 5 |
+| Gavin | 5 | 5 |
 | Itzayana | 3 | 3 |
-| Ty | 3 | 3 ||
+| Ty | 2 | 0 ||
 
 Estimation & Accuracy:
 
 | Metric | Value |
 | :---- | :---- |
-| Total story points committed | 13 |
-| Total story points completed | 13 |
+| Total story points committed | 26 |
+| Total story points completed | 26 |
 | Completion % | 100 |
 
 Workflow Discipline:  
@@ -49,15 +49,15 @@ Blockers & Scope Changes:
 * Major Blockers-  
   * Not many blockers other than Gavin having integration issues with GitHub Pages, which also affected my files, but that was resolved a bit
 * Why work spilled over (if any)- 
-  * N/A
+  * Due to additional sprint Added, we decided to focus on splitting up our tasks to focus on fleshing them out in a higher capacity rather than rushing through them in a shorter period of time
  * Scope changes-
-   * Next Scope: I will fix minor bugs and nitpick with the web, along with keeping the same media audio with Android, as our voice files are stored and shown differently 
+   * Next Scope: 
 
 
 **Jira Evidence Links (no screenshots)**
 
-•Sprint report link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiMDk0MDZiYjc3MWIzNDAwNTkzN2I2Y2YwMDcxN2RmYjMiLCJwIjoiaiJ9
+•Sprint report link \- [https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiMDk0MDZiYjc3MWIzNDAwNTkzN2I2Y2YwMDcxN2RmYjMiLCJwIjoiaiJ9](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMDk0MDZiYjc3MWIzNDAwNTkzN2I2Y2YwMDcxN2RmYjMiLCJwIjoiaiJ9)
 
-•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiMThlMzBmNTJlMTVmNGFjNThjMTQ0ODMzYjgwNTgyNjYiLCJwIjoiaiJ9
+•Backlog link \- [https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiMThlMzBmNTJlMTVmNGFjNThjMTQ0ODMzYjgwNTgyNjYiLCJwIjoiaiJ9](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog)
 
-•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?atlOrigin=eyJpIjoiNjZjMWU0ZTQxZTBkNDk4ZDg0NTZiMmExMTM1MzhlNzIiLCJwIjoiaiJ9
+•Board link (filtered to sprint) \- [https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?atlOrigin=eyJpIjoiNjZjMWU0ZTQxZTBkNDk4ZDg0NTZiMmExMTM1MzhlNzIiLCJwIjoiaiJ9](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1)
