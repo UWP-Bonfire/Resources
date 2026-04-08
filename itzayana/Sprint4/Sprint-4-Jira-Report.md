@@ -51,7 +51,7 @@ Blockers & Scope Changes:
 * Why work spilled over (if any)- 
   * Due to additional sprint Added, we decided to focus on splitting up our tasks to focus on fleshing them out in a higher capacity rather than rushing through them in a shorter period of time
  * Scope changes-
-   * Next Scope: 
+   * Next Scope: For the next scope,  work on the 18+ chats and make sure only 18+ people are able to chat
 
 
 **Jira Evidence Links (no screenshots)**
