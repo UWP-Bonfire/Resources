@@ -7,7 +7,7 @@ Repository URLs:
 
 Pull Requests (Merged During Sprint Only)
 
-- https://github.com/UWP-Bonfire/Bonfire-Android/issues?q=is%3Apr%20author%3ACalDoesCodes%20updated%3A%3C%3D2026-04/07%20AND%20updated%3A%3E%3D2026-03-17
+- https://github.com/UWP-Bonfire/Bonfire-Android/issues?q=is%3Apr%20author%3ACalDoesCodes%20updated%3A%3C%3D2026-04-07%20AND%20updated%3A%3E%3D2026-03-17
 
 PR no. 26 (Android)
 -    **PR Title: Refactoring populateFriends function and rework tests
