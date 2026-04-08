@@ -24,9 +24,15 @@ PR no. 27 (Android)
 -    **Reviewers:Courtney Walk
 -    **Merge Date:2026-03-19
 
+PR no. 28 (Android)
+-    **PR Title: Finished Refactoring of GroupChatListActivity
+-    **PR Link: [UWP-Bonfire/Bonfire-Android#28](https://github.com/UWP-Bonfire/Bonfire-Android/pull/28)
+-    **Author: Caleb Geisler
+-    **Reviewers:Courtney Walk
+-    **Merge Date:2026-03-20
 
 
 
 Commit Activity
 - Total Number of Commits: 2
-- Date Range: 2026-03-17 - 2026-03-19
+- Date Range: 2026-03-17 - 2026-03-20
