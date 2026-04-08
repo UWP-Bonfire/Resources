@@ -4,7 +4,7 @@ Sprint Commitment vs Delivery:
 
 | Metric | Count |
 | :---- | :---- |
-| Issues committed at sprint start | 3 |
+| Issues committed at sprint start | 2 |
 | Issues completed | 1 |
 | Issues not completed | 0 |
 | Issues added mid-sprint | 0 |
@@ -14,7 +14,7 @@ Issue Breakdown by Type:
 | Type | To Do | In Progress | Done |
 | :---- | :---- | :---- | :---- |
 | Story | 0 | 0 | 0 |
-| Task | 2 | 0 | 0 |
+| Task | 1 | 0 | 0 |
 | Bug | 1 | 0 | 1 |
 
 Per-Student Work Allocation:
@@ -26,7 +26,7 @@ Per-Student Work Allocation:
 | Courtney | 8 | 8 |
 | Gavin | 5 | 5 |
 | Itzyana | 3 | 3 |
-| Ty | 3 | 1 |
+| Ty | 2 | 1 |
 
 Estimation & Accuracy:
 
