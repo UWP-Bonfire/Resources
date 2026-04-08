@@ -47,7 +47,7 @@ Workflow Discipline:
 Blockers & Scope Changes:
 \- 
 * Major Blockers-  
-  * Not many blockers other than Gavin having integration issues with GitHub Pages, which also affected my files, but that was resolved a bit
+  * Not many blockers for this sprint
 * Why work spilled over (if any)- 
   * Due to additional sprint Added, we decided to focus on splitting up our tasks to focus on fleshing them out in a higher capacity rather than rushing through them in a shorter period of time
  * Scope changes-
