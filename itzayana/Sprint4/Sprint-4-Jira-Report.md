@@ -23,11 +23,11 @@ Per-Student Work Allocation:
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
 | Amy | 2 | 2 |
-| Caleb | 2 | 1 |
-| Courtney | 6 | 5 |
+| Caleb | 2 | 2 |
+| Courtney | 6 | 6 |
 | Gavin | 5 | 5 |
 | Itzayana | 3 | 3 |
-| Ty | 2 | 0 ||
+| Ty | 2 | 2 ||
 
 Estimation & Accuracy:
 
