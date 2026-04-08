@@ -19,7 +19,7 @@ PR2 – Group chats impemented
 PR3 – Altered Voice messeges to hopefully be compatable with mobile
 - **Author:** Itzayana  
 - **Reviewer:** Courtney  
-- **Merged:** 03-06-2026  
+- **Merged:** 04-06-2026  
 - **Link:** https://github.com/UWP-Bonfire/bonfire-web/pull/38
 
 
