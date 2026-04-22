@@ -16,7 +16,7 @@ PR2 – Media Censorship
 - **Merged:** 04-21-2026   
 - **Link:**[ https://github.com/UWP-Bonfire/bonfire-web/pull/17 ](https://github.com/UWP-Bonfire/Bonfire-Web/pull/45) 
 
-PR3 – Bug Fixes in Messaging.jsx  
+PR3 –Media censor
 - **Author:** Itzayana  
 - **Reviewer:** Courtney  
 - **Merged:** 04-21-2026  
