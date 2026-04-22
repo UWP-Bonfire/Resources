@@ -60,4 +60,5 @@ Blockers & Scope Changes:
 
 •Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiY2FmMjU4ZjZjMWRmNGNlMWI5MThkZWJmODU4OGQ2MjQiLCJwIjoiaiJ9
 
-•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=assignee+%3D+712020%3A30f456e9-93a9-402f-87f9-bfbe9093ca6c\&atlOrigin=eyJpIjoiZWFmYzQwN2E0YWM1NDc0Y2E5YTE0YWNiNTc2MGJiNjUiLCJwIjoiaiJ9
+[•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=assignee+%3D+712020%3A30f456e9-93a9-402f-87f9-bfbe9093ca6c\&atlOrigin=eyJpIjoiZWFmYzQwN2E0YWM1NDc0Y2E5YTE0YWNiNTc2MGJiNjUiLCJwIjoiaiJ9
+](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2074%20AND%20assignee%20%3D%20712020%3Ac0ac9314-a6d4-4de1-9942-9a4652010b74&sprints=74)
