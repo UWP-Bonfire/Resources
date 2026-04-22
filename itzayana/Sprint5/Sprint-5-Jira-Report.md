@@ -23,11 +23,11 @@ Per-Student Work Allocation:
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
 | Amy | 5 | 4 |
-| Caleb | 5 | 1 |
-| Courtney | 10 | 6 |
+| Caleb | 5 | 4 |
+| Courtney | 10 | 10 |
 | Gavin | 3 | 3 |
 | Itzayana | 2 | 2 |
-| Ty | 4 | 2 ||
+| Ty | 4 | 3 ||
 
 Estimation & Accuracy:
 
@@ -56,8 +56,8 @@ Blockers & Scope Changes:
 
 **Jira Evidence Links (no screenshots)**
 
-•Sprint report link \- [https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiMDk0MDZiYjc3MWIzNDAwNTkzN2I2Y2YwMDcxN2RmYjMiLCJwIjoiaiJ9](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview%5C&atlOrigin=eyJpIjoiMDk0MDZiYjc3MWIzNDAwNTkzN2I2Y2YwMDcxN2RmYjMiLCJwIjoiaiJ9)
+•Sprint report link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiYTI4YjBlNjE0NjhjNGZlZGFmMWM0NzVlYjAxMzU3N2EiLCJwIjoiaiJ9
 
-•Backlog link \- [https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiMThlMzBmNTJlMTVmNGFjNThjMTQ0ODMzYjgwNTgyNjYiLCJwIjoiaiJ9](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog)
+•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiY2FmMjU4ZjZjMWRmNGNlMWI5MThkZWJmODU4OGQ2MjQiLCJwIjoiaiJ9
 
-•Board link (filtered to sprint) \- [https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?atlOrigin=eyJpIjoiNjZjMWU0ZTQxZTBkNDk4ZDg0NTZiMmExMTM1MzhlNzIiLCJwIjoiaiJ9](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1)
+•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=assignee+%3D+712020%3A30f456e9-93a9-402f-87f9-bfbe9093ca6c\&atlOrigin=eyJpIjoiZWFmYzQwN2E0YWM1NDc0Y2E5YTE0YWNiNTc2MGJiNjUiLCJwIjoiaiJ9
