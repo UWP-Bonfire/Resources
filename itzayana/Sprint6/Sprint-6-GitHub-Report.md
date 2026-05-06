@@ -8,13 +8,13 @@ PR1 – Batch of refactor
 - **Author:** Itzayana  
 - **Reviewer:** Courtney  
 - **Merged:** 05-04-2026   
-- **Link:** [https://github.com/UWP-Bonfire/bonfire-web/pull/16  ](https://github.com/UWP-Bonfire/Bonfire-Web/pull/43)
+- **Link:** https://github.com/UWP-Bonfire/Bonfire-Web/pull/48
 
-PR2 – Media Censorship 
+PR2 – New sort list
 - **Author:** Itzayana  
 - **Reviewer:** Courtney  
 - **Merged:** 05-04-2026   
-- **Link:**[ https://github.com/UWP-Bonfire/bonfire-web/pull/17 ](https://github.com/UWP-Bonfire/Bonfire-Web/pull/45) 
+- **Link:** https://github.com/UWP-Bonfire/Bonfire-Web/pull/50
 
 
 ---
