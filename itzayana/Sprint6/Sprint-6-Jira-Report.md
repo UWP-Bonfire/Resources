@@ -1,6 +1,3 @@
-
-Itzayana Aguilar Jira Report
-
 Sprint Commitment vs Delivery:
 
 | Metric | Count |
@@ -15,26 +12,26 @@ Issue Breakdown by Type:
 | Type | To Do | In Progress | Done |
 | :---- | :---- | :---- | :---- |
 | Story | 0 | 0 | 0 |
-| Task | 0 | 0 | 2 |
-| Bug | 0 | 0 | 0 |
+| Task | 0 | 0 | 0 |
+| Bug | 0 | 0 | 2 |
 
 Per-Student Work Allocation:
 
 | Student | Issues Assigned | Issues Completed |
 | :---- | :---- | :---- |
-| Amy | 5 | 4 |
-| Caleb | 5 | 4 |
-| Courtney | 10 | 10 |
-| Gavin | 3 | 3 |
-| Itzayana | 2 | 2 |
-| Ty | 4 | 3 ||
+| Amy | 3 | 3 |
+| Caleb | 3 | 3 |
+| Courtney | 6 | 6 |
+| Gavin | 2 | 2 |
+| Itzyana | 2 | 2 |
+| Ty | 2 | 2 |
 
 Estimation & Accuracy:
 
 | Metric | Value |
 | :---- | :---- |
-| Total story points committed | 18 |
-| Total story points completed | 18 |
+| Total story points committed | 29 |
+| Total story points completed | 29 |
 | Completion % | 100 |
 
 Workflow Discipline:  
@@ -42,23 +39,19 @@ Workflow Discipline:
 
 - [x] Issues moved through workflow states (To Do \-\> In Progress \-\> Done)  
 - [x] Issues closed only after acceptance criteria met  
-- [x] Sprint completed/closed in Jira (to be done by Courtney after Sprint demo)
+- [x] Sprint completed/closed in Jira
 
 Blockers & Scope Changes:
-\- 
-* Major Blockers-  
-  * Not many blockers for this sprint
-* Why work spilled over (if any)- 
-  * N/A
- * Scope changes-
-   * Next Scope: For the next scope,  refactor the web code
 
+* Major Blockers-  
+  * I was unfortunately very busy with my projects this semester 
+* Why work spilled over (if any)  
+  * N/A
 
 **Jira Evidence Links (no screenshots)**
 
-•Sprint report link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiYTI4YjBlNjE0NjhjNGZlZGFmMWM0NzVlYjAxMzU3N2EiLCJwIjoiaiJ9
+•Sprint report link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/reports/burndown?source=overview\&atlOrigin=eyJpIjoiZWExOWVmY2M1Y2M0NDQ0MmIzYzJmM2MzOTJkMjlkMTYiLCJwIjoiaiJ9
 
-•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiY2FmMjU4ZjZjMWRmNGNlMWI5MThkZWJmODU4OGQ2MjQiLCJwIjoiaiJ9
+•Backlog link \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1/backlog?atlOrigin=eyJpIjoiYzk5MzJiODU5NGU4NDk0ZmExYzhhNjc1MGNlMGFlMGEiLCJwIjoiaiJ9
 
-[•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=assignee+%3D+712020%3A30f456e9-93a9-402f-87f9-bfbe9093ca6c\&atlOrigin=eyJpIjoiZWFmYzQwN2E0YWM1NDc0Y2E5YTE0YWNiNTc2MGJiNjUiLCJwIjoiaiJ9
-](https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?jql=Sprint%20%3D%2074%20AND%20assignee%20%3D%20712020%3Ac0ac9314-a6d4-4de1-9942-9a4652010b74&sprints=74)
+•Board link (filtered to sprint) \- https://gavinhanzel.atlassian.net/jira/software/projects/BONFIRE/boards/1?atlOrigin=eyJpIjoiMjM5YjY5MDMyMDQ0NGE1OGFiNDM3YmQ5MTFjNDE5YTIiLCJwIjoiaiJ9
