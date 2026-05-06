@@ -1,4 +1,4 @@
-* Sprint 6 Commitment vs Delivery:
+# Sprint 6 Commitment vs Delivery:
 
 | Metric | Count |
 | :---- | :---- |
