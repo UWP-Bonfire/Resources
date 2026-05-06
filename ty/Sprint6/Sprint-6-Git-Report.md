@@ -16,6 +16,8 @@ https://github.com/UWP-Bonfire/bonfire-backend
 
 ## Merged Pull Requests (During Sprint Only)
 
+https://github.com/UWP-Bonfire/bonfire-backend/pull/22
+
 *Only list PRs that were merged within the sprint date range.*
 
 **Search example:**
